@@ -28,3 +28,8 @@ Foi criada uma issue no repositório do projeto para relatar este problema e ini
 - Corrigir o problema para que o timer seja exibido corretamente ou implementar uma mensagem de erro apropriada.
 - Testar as correções e atualizar a issue no repositório.
 
+## Data: 09/08/2024
+
+### Atualização
+
+A issue foi respondida no Github e um dos colaboradores me deu sinal verde para continuar trabalhando na issue e me orientou como fazer. Devo subir um PR nos próximos dias.
