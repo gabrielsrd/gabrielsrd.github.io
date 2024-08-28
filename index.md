@@ -33,3 +33,21 @@ Foi criada uma issue no repositório do projeto para relatar este problema e ini
 ### Atualização
 
 A issue foi respondida no Github e um dos colaboradores me deu sinal verde para continuar trabalhando na issue e me orientou como fazer. Devo subir um PR nos próximos dias.
+
+## Data: 14/08/2024
+### Atividades Realizadas
+Realizei alterações no arquivo de geração de timers de Pomodoro (pomodoro.sh). A modificação permite que o timer de Pomodoro seja registrado sem a necessidade de especificar uma tag. Agora, se nenhuma tag for fornecida, o timer é registrado automaticamente com a tag padrão NO-TAG. Esta mudança foi feita para resolver o problema identificado anteriormente.
+
+### Commit realizado:
+
+"This commit modifies the pomodoro.sh script to allow the registration of a Pomodoro timer without requiring a specified tag. If no tag is provided, the timer is now automatically registered with the default tag NO-TAG.
+
+### Próximos Passos
+- Aguardar uma resposta de algum dos mantenedores do projeto
+- Investigar o motivo dos testes estarem inconsistentes
+
+## Data: 28/08/2024
+### Atividades Realizadas
+
+- Modifiquei o commit conforme um dos mantenedores me sugeriu
+- Comecei a olhar o código do Patch-Hub
